@@ -10,6 +10,9 @@ header{
     background: #ececea;
     border-bottom: 1px solid #ddd;
 }
+a{
+    font-size: 16px;
+}
 header.fixed{
     position: fixed;
     left: 0;
